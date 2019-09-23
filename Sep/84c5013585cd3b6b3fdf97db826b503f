@@ -1,0 +1,25 @@
+Earlier on Monday, SaharaReportershad published a part of the interrogation pro-democracy campaigner and Convener of RevolutionNowmovement, Omoyele Sowore, was subjected to by officials of the Department of State Services in Abuja on August 6, 2019 – three days after his arrest in Lagos for calling on Nigerians to take to the streets and peacefully condemn the poor state of leadership in the country. In this updated version of the interrogation by the DSS, the complete interview had been attached to as documents. Sowore is due to appear in court on Tuesday after 52 days in detention. DSS Interviews of Sowore.pdf 1 by Sahara Reporters on Scribd DSS Interviews of Sowore.pdf 2 by Sahara Reporters on Scribd (function(){
+
+		var scribd_doc = scribd.Document.getDocFromUrl('https://secure.saharareporters.com/sites/default/files/DSS.%20INTERVIEWS%20OF%20SOWORE.pdf%201.pdf', 'pub-38756116719609018964');
+
+		var onDocReady = function(e){};
+
+		scribd_doc.addParam('jsapi_version', 2);
+                scribd_doc.addParam('public', true);
+                scribd_doc.addParam('allow_share', true);
+		scribd_doc.addEventListener('docReady', onDocReady);
+		scribd_doc.write('embedded_doc_82672');
+
+	})(); (function(){
+
+		var scribd_doc = scribd.Document.getDocFromUrl('https://secure.saharareporters.com/sites/default/files/DSS.%20INTERVIEWS%20OF%20SOWORE.pdf%202.pdf', 'pub-38756116719609018964');
+
+		var onDocReady = function(e){};
+
+		scribd_doc.addParam('jsapi_version', 2);
+                scribd_doc.addParam('public', true);
+                scribd_doc.addParam('allow_share', true);
+		scribd_doc.addEventListener('docReady', onDocReady);
+		scribd_doc.write('embedded_doc_82675');
+
+	})();
